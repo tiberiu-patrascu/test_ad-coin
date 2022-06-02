@@ -1,0 +1,23 @@
+[
+    {
+        "nom": "Marx",
+        "prenom": "Duty",
+        "age": 25,
+        "email": "Marx@gmail.fr",
+        "ville": "paris"
+    },
+    {
+        "nom": "Att",
+        "prenom": "Jan",
+        "age": 21,
+        "email": "Att@gmail.fr",
+        "ville": "paris"
+    },
+    {
+        "nom": "Uiol",
+        "prenom": "Dada",
+        "age": 23,
+        "email": "Uiol@gmail.fr",
+        "ville": "paris"
+    }
+]

@@ -1,0 +1,5 @@
+#variabile globale
+SetEnv HTTP_DB_NAME "VOL"
+SetEnv HTTP_USER "VOL"
+SetEnv HTTP_PASS "dEnQvMd57K8L"
+
